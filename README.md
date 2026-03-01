@@ -29,13 +29,14 @@ I am a dedicated Software Engineering student with a strong foundation in **Elec
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![Groq AI](https://img.shields.io/badge/Groq-AI_Processing-F3D03E?style=for-the-badge&logo=openai)
+![RAG Architecture](https://img.shields.io/badge/RAG-Architecture-blue?style=for-the-badge)
 
 ### 🗄️ Backend & Database
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-Database-3ECF8E?style=for-the-badge&logo=supabase)
+![Next.js](https://img.shields.io/badge/Next.js-15+-black?style=for-the-badge&logo=next.js)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -54,6 +55,13 @@ I am a dedicated Software Engineering student with a strong foundation in **Elec
 ---
 
 ## 📂 Featured Projects
+
+### 🤖 [InterviewIQ AI — Flagship Project](https://github.com/adityadeoche/interview-iq-ai)
+- An end-to-end recruitment ecosystem featuring a **5-Round recursive interview simulator**.
+- Deep analysis of candidate resumes to generate personalized, real-time technical questions.
+- Built-in multi-role dashboards for **Students, HR Managers, and College TPOs**.
+- **Tech Stack:** Next.js 15, Groq SDK (Llama 3.3 70B), Supabase (PostgreSQL), Framer Motion, Recharts.
+- **Live Demo:** [interview-iq-ai.onrender.com](https://interview-iq-ai.onrender.com/)
 
 ### 🗺️ Tourist Guide Database Management System
 - Efficiently manages tourist records and improves query performance using a normalized SQL database.
