@@ -66,6 +66,7 @@ I am a dedicated Software Engineering student with a strong foundation in **Elec
 - Generates summarized outputs with key events.
 - Deployed robustly using Docker & Kubernetes.
 - **Tech Stack:** Python, FastAPI, YOLO, React, Docker.
+- **Live Demo:** [homeshield-ai-seven.vercel.app](https://homeshield-ai-seven.vercel.app/)
 
 ### ⚙️ [Smart Industrial Motor Monitor](https://github.com/adityadeoche/Smart_Industrial_Automation)
 - Predictive maintenance system monitoring industrial motors via CAN FD network.
